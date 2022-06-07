@@ -1,0 +1,11 @@
+# directory tmp & all inside
+tmp/
+
+# files by mask
+*_old
+*_backup
+
+# files
+Thumbs.db
+.DS_Store
+neuro-startup.zip
